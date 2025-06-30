@@ -23,6 +23,7 @@ header {
   max-width: 800px;
   margin: 30px auto;
   padding: 0 20px;
+
 }
 
 .image-section img {
@@ -54,5 +55,6 @@ footer {
   padding: 15px 0;
   font-size: 0.9em;
   color: #777;
-  margin-top: 40px;
+  margin-top: 40px; 
+
 }
